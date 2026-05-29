@@ -13,4 +13,6 @@ Vous partez d'un YoloV8 appris sur COCO Vous voulez garder toutes les classes d'
 
 Il est conseillé de choisir parmi les familles : Yolo, Inception et RetinaNet, étant les plus simples à utiliser, mais vous pouvez choisir le modèle que vous voulez.
 
-test conflict
+
+test modif conflit réglé
+
