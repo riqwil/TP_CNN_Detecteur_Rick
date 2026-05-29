@@ -1,0 +1,40 @@
+
+Prerequis
+git-batch 
+
+Start
+1. Clone 
+   git clone https://github.com/riqwil/TP_CNN_Detecteur_Rick.git
+   
+2. Modifier projet 
+   
+3. Pusher le fichier
+   git add README.md
+   git commit -m "add readme"
+   git push 
+
+4. git pull 
+
+
+Branching
+1. git pull 
+2. git checkout -b feature-CNN-MH
+3. ajouter fichier instructions
+4. pusher 
+
+
+Notes
+feature-xyz -> dev d'une feature
+fix-xyz     -> bug fix 
+hotfix 		-> bug fix sur master 
+
+
+qq commandes uties
+git checkout br1 -> develop vers br1 
+git fetch -> rendre dispo en local les branches distants 
+git branch -> lister les branches en local 
+
+
+
+
+
