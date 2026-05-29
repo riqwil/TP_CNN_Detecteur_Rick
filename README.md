@@ -12,3 +12,5 @@ Exemple :
 Vous partez d'un YoloV8 appris sur COCO Vous voulez garder toutes les classes d'humains et de véhicules Vous Téléchargez le dataset VIRAT qui a des vidéos de vues CCTV pour des humains et véhicules Vous adaptez le modèle YoloV8 pour la détection de ces classes et vous réalisez le réentrainement des dernières couches Vous observez les performances de détection (mAP avec différents seuils d'IoU, AP par classe, precision, recall), et en fonction décidez s'il est nécessaire de refaire l'apprentissage en réapprenant plus de couches dans le modèle
 
 Il est conseillé de choisir parmi les familles : Yolo, Inception et RetinaNet, étant les plus simples à utiliser, mais vous pouvez choisir le modèle que vous voulez.
+
+test conflict
