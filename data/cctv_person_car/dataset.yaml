@@ -1,0 +1,7 @@
+path: C:/Users/riqwi/Desktop/rick/academik/master AI aivancity/cours/certificat3/MSc AIB - Méthodes actuelles de l'apprentissage profond/tps/data/cctv_person_car
+train: images/train
+val: images/val
+nc: 2
+names:
+  0: person
+  1: car

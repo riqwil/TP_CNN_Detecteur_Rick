@@ -1,0 +1,13 @@
+names:
+- Car
+- Person
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: car-person-nebip
+  url: https://universe.roboflow.com/test-0wdss/car-person-nebip/dataset/1
+  version: 1
+  workspace: test-0wdss
+test: ../test/images
+train: ../train/images
+val: ../valid/images
